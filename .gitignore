@@ -2,7 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
+
+# Project files
 quotes/db.sqlite3
+**package.json
+**package-lock.json
+**node_modules/
 
 # C extensions
 *.so
