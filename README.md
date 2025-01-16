@@ -16,4 +16,4 @@ npm i
 ```
 
 ## Running the Server
-When in the `quotes/` directory, the server can be run with `python manage.py runserver`, which will open a local server at [localhost:8000/](localhost:8000/)
+When in the `quotes/` directory, the server can be run with `python manage.py runserver`, which will open a local server at [localhost:8000/](http://localhost:8000/)
